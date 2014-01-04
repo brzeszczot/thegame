@@ -1,0 +1,7 @@
+#ifndef MAIN_HPP_INCLUDED
+#define MAIN_HPP_INCLUDED
+
+#include <iostream>
+#include "Sfgfx.hpp"
+
+#endif // MAIN_HPP_INCLUDED

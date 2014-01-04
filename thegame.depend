@@ -1,0 +1,189 @@
+# depslib dependency file v1.0
+1334666686 source:c:\codeblocks\projects\thegame\engine.cpp
+	"Engine.hpp"
+
+1334666778 c:\codeblocks\projects\thegame\engine.hpp
+	"Object.hpp"
+	"Bullet.hpp"
+
+1328198470 source:c:\codeblocks\projects\thegame\main.cpp
+	"main.hpp"
+
+1333099172 c:\codeblocks\projects\thegame\main.hpp
+	<iostream>
+	"Sfgfx.hpp"
+
+1325170007 c:\codeblocks\projects\thegame\agfx.hpp
+	<allegro.h>
+	<algif.h>
+	<time.h>
+	"Engine.hpp"
+	"Ini.hpp"
+
+1325171468 source:c:\codeblocks\projects\thegame\agfx.cpp
+	"Agfx.hpp"
+
+1326973008 source:c:\codeblocks\projects\thegame\ini.cpp
+	"Ini.hpp"
+
+1326643306 c:\codeblocks\projects\thegame\ini.hpp
+	<iostream>
+	<fstream>
+	<map>
+	<stdlib.h>
+
+1338557024 source:c:\codeblocks\projects\thegame\sfgfx.cpp
+	"Sfgfx.hpp"
+
+1338557118 c:\codeblocks\projects\thegame\sfgfx.hpp
+	<iostream>
+	<vector>
+	<map>
+	<cmath>
+	<ctime>
+	<sstream>
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	"collision.hpp"
+	"polygon.hpp"
+	"Ini.hpp"
+	"Engine.hpp"
+	"Object.hpp"
+	"WObject.hpp"
+	"BObject.hpp"
+	"Map.hpp"
+	"Imgs.hpp"
+	"Sndbuff.hpp"
+	"AniSprite.hpp"
+	"Alg.hpp"
+	"File.hpp"
+
+1338556842 source:c:\codeblocks\projects\thegame\object.cpp
+	"Object.hpp"
+
+1338556796 c:\codeblocks\projects\thegame\object.hpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Imgs.hpp"
+	"AniSprite.hpp"
+	"WObject.hpp"
+	"Bullet.hpp"
+
+1344707310 source:c:\codeblocks\projects\thegame\map.cpp
+	"Map.hpp"
+
+1334656006 c:\codeblocks\projects\thegame\map.hpp
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+	"Object.hpp"
+	"WObject.hpp"
+	"BObject.hpp"
+	"FObject.hpp"
+	"Imgs.hpp"
+	"AniSprite.hpp"
+
+1326207566 c:\codeblocks\projects\thegame\collision.hpp
+
+1326464192 c:\codeblocks\projects\thegame\polygon.hpp
+	<iostream>
+	<cstdlib>
+
+1326206720 source:c:\codeblocks\projects\thegame\collision.cpp
+	<SFML/Graphics.hpp>
+	"collision.hpp"
+
+1326555522 source:c:\codeblocks\projects\thegame\polygon.cpp
+	"polygon.hpp"
+
+1333446684 source:c:\codeblocks\projects\thegame\alg.cpp
+	"Alg.hpp"
+
+1333446444 c:\codeblocks\projects\thegame\alg.hpp
+	<SFML/Graphics.hpp>
+	<cmath>
+	<iostream>
+	<algorithm>
+	<vector>
+
+1338892376 c:\codeblocks\projects\thegame\imgs.hpp
+	<iostream>
+	<vector>
+	<SFML/Graphics.hpp>
+
+1334227530 source:c:\codeblocks\projects\thegame\imgs.cpp
+	"Imgs.hpp"
+
+1327095852 source:c:\codeblocks\projects\thegame\anisprite.cpp
+	"AniSprite.hpp"
+
+1327096470 c:\codeblocks\projects\thegame\anisprite.hpp
+	<SFML/Graphics.hpp>
+
+1333633786 c:\codeblocks\projects\thegame\wobject.hpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Imgs.hpp"
+	"AniSprite.hpp"
+
+1333633824 source:c:\codeblocks\projects\thegame\wobject.cpp
+	"WObject.hpp"
+
+1333633764 c:\codeblocks\projects\thegame\bobject.hpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Imgs.hpp"
+	"AniSprite.hpp"
+
+1333633814 source:c:\codeblocks\projects\thegame\bobject.cpp
+	"BObject.hpp"
+
+1334261956 source:c:\codeblocks\projects\thegame\fobject.cpp
+	"FObject.hpp"
+
+1334261942 c:\codeblocks\projects\thegame\fobject.hpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Imgs.hpp"
+	"AniSprite.hpp"
+	"WObject.hpp"
+
+1332266512 source:c:\codeblocks\projects\thegame\file.cpp
+	"File.hpp"
+
+1332259272 c:\codeblocks\projects\thegame\file.hpp
+	<boost/archive/text_oarchive.hpp>
+	<boost/archive/text_iarchive.hpp>
+	<boost/archive/binary_iarchive.hpp>
+	<boost/archive/binary_oarchive.hpp>
+	<boost/serialization/vector.hpp>
+	<iostream>
+	"Sfgfx.hpp"
+	"Map.hpp"
+
+1333116902 source:c:\codeblocks\projects\thegame\gun.cpp
+	"Gun.hpp"
+
+1333117118 c:\codeblocks\projects\thegame\gun.hpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Imgs.hpp"
+	"AniSprite.hpp"
+
+1338553490 source:c:\codeblocks\projects\thegame\bullet.cpp
+	"Bullet.hpp"
+
+1338545604 c:\codeblocks\projects\thegame\bullet.hpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Imgs.hpp"
+	"AniSprite.hpp"
+
+1334235016 source:c:\codeblocks\projects\thegame\sndbuff.cpp
+	"Sndbuff.hpp"
+
+1334323446 c:\codeblocks\projects\thegame\sndbuff.hpp
+	<iostream>
+	<vector>
+	<SFML/Audio.hpp>
+
